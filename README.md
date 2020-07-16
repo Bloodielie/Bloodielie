@@ -7,8 +7,7 @@
   <img align="left" alt="Vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
 
-### Hi,
-### I'm 17 years old Self-taught Backend developer from Belarus.
+### Hi, i'm 17 years old Self-taught Backend developer from Belarus.
 
 <!--
 **Bloodielie/Bloodielie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
