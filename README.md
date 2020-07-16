@@ -17,7 +17,7 @@
 [GitHub](https://github.com/Bloodielie?tab=repositories)
 
 ### Coding experience
-**one year+**
+**One year+**
 
 <!--
 **Bloodielie/Bloodielie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
