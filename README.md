@@ -11,7 +11,7 @@
 ### I'm 17 years old Self-taught Backend developer from Belarus.
 
 ### Technology
-<img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="40px" alt="html" style="vertical-align:top; margin:4px"><img src="https://image.flaticon.com/icons/svg/888/888909.svg" width="40px" alt="html" style="vertical-align:top; margin:4px"><img src="https://image.flaticon.com/icons/svg/888/888897.svg" width="40px" alt="html" style="vertical-align:top; margin:4px"><img src="https://image.flaticon.com/icons/svg/541/541509.svg" width="40px" alt="html" style="vertical-align:top; margin:4px"> 
+<img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="40px" alt="html" style="vertical-align:top; margin:10px"><img src="https://image.flaticon.com/icons/svg/888/888909.svg" width="40px" alt="html" style="vertical-align:top; margin:10px"><img src="https://image.flaticon.com/icons/svg/888/888897.svg" width="40px" alt="html" style="vertical-align:top; margin:10px"><img src="https://image.flaticon.com/icons/svg/541/541509.svg" width="40px" alt="html" style="vertical-align:top; margin:10px"> 
 
 <!--
 **Bloodielie/Bloodielie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
