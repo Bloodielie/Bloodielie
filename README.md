@@ -11,7 +11,7 @@
 ### I'm 17 years old Self-taught Backend developer from Belarus.
 
 ### Technology
-<img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="22px" alt="html" style="vertical-align:top; margin:4px">    
+<img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="30px" alt="html" style="vertical-align:top; margin:4px">    
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
 
