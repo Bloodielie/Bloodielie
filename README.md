@@ -1,5 +1,5 @@
 ### Hi there, I'm Roma! 👋. 
-<br/>
+
 <a href="https://t.me/ohmaydev">
   <img align="left" alt="Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
