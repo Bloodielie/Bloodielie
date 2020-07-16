@@ -6,7 +6,7 @@
 <a href="https://vk.com/tokia_flex">
   <img align="left" alt="Vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
-
+<br/>
 ### Hi, i'm 17 years old Self-taught Backend developer from Belarus.
 
 <!--
