@@ -8,7 +8,12 @@
 </a>
 <br/>
 
-### Hi, i'm 17 years old Self-taught Backend developer from Belarus.
+### I'm 17 years old Self-taught Backend developer from Belarus.
+
+### Technology
+<img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" alt="html" style="vertical-align:top; margin:4px">    
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
 
 <!--
 **Bloodielie/Bloodielie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
