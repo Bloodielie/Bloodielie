@@ -11,10 +11,14 @@
 ### I'm 17 years old Self-taught Backend developer from Belarus.
 
 ### Technology
-<img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="40px" alt="html" style="vertical-align:top; margin:10px"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" width="45px" alt="html" style="vertical-align:top; margin:10px"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="45px" alt="html" style="vertical-align:top; margin:10px"><img src="https://image.flaticon.com/icons/svg/888/888909.svg" width="40px" alt="html" style="vertical-align:top; margin:10px"><img src="https://image.flaticon.com/icons/svg/888/888897.svg" width="40px" alt="html" style="vertical-align:top; margin:10px"><img src="https://image.flaticon.com/icons/svg/541/541509.svg" width="40px" alt="html" style="vertical-align:top; margin:10px"> 
+<img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="40px" alt="html" style="vertical-align:top; margin:10px"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" width="45px" alt="html" style="vertical-align:top; margin:10px"><img src="https://image.flaticon.com/icons/svg/888/888909.svg" width="40px" alt="html" style="vertical-align:top; margin:10px"><img src="https://image.flaticon.com/icons/svg/888/888897.svg" width="40px" alt="html" style="vertical-align:top; margin:10px"><img src="https://image.flaticon.com/icons/svg/541/541509.svg" width="40px" alt="html" style="vertical-align:top; margin:10px"> 
 
 ### Projects
 [GitHub](https://github.com/Bloodielie?tab=repositories)
+
+### Coding experience
+**one year+**
+
 <!--
 **Bloodielie/Bloodielie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
