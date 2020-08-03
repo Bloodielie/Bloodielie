@@ -35,3 +35,7 @@
   <img align="left" alt="Vk" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
 <br/>
+
+### GitHub Stats
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Bloodielie&show_icons=true&count_private=true&hide_title=true)
