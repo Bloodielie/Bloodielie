@@ -19,14 +19,12 @@
 * Git
 * Linux
 
-### Technology
-<img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="40px" alt="html" style="vertical-align:top; margin:10px"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" width="45px" alt="html" style="vertical-align:top; margin:10px"><img src="https://image.flaticon.com/icons/svg/888/888909.svg" width="40px" alt="html" style="vertical-align:top; margin:10px"><img src="https://image.flaticon.com/icons/svg/888/888897.svg" width="40px" alt="html" style="vertical-align:top; margin:10px"><img src="https://image.flaticon.com/icons/svg/541/541509.svg" width="40px" alt="html" style="vertical-align:top; margin:10px"> 
-
-### Projects
-[GitHub](https://github.com/Bloodielie?tab=repositories)
-
-### Coding experience
-**One year+**
+### Other skills & Technologies
+* SOLID Design Principles / Software Design Patterns / OOP
+* MongoDB, Redis, PostgreSQL
+* Docker
+* pylint, black, poetry, pytest,asyncio, Selenium Webdriver
+* React
 
 ### Links
 
