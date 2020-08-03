@@ -2,14 +2,6 @@
 
 ## Hi there, I'm Roma! 👋. 
 
-<a href="https://t.me/ohmaydev">
-  <img align="left" alt="Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://vk.com/tokia_flex">
-  <img align="left" alt="Vk" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
-</a>
-<br/>
-
 *My goals are constant self-development, automation of routine tasks, and creation of a stable and high-quality product. Responsible for their own work.*  
 *I am developing web applications, CRM systems, dashboards. Understanding of OOP, and design patterns and architecture approaches. I am also eager to develop in this area. I have a great understanding of the asynchronous event model in python/node.*  
 *I want to be able to improve my hard and soft skills in my next job.*  
@@ -23,17 +15,12 @@
 ### Coding experience
 **One year+**
 
-<!--
-**Bloodielie/Bloodielie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Links
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://t.me/ohmaydev">
+  <img align="left" alt="Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://vk.com/tokia_flex">
+  <img align="left" alt="Vk" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
+</a>
+<br/>
