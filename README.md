@@ -4,27 +4,28 @@
 
 ### Summary:
 
-*My goals are constant self-development, automation of routine tasks, and creation of a stable and high-quality product. Responsible for their own work.*  
-*I am developing web applications, CRM systems, dashboards. Understanding of OOP, and design patterns and architecture approaches. I am also eager to develop in this area. I have a great understanding of the asynchronous event model in python/node.*  
-*I want to be able to improve my hard and soft skills in my next job.*  
+*Experience in web development for about 2 years, during this time I studied Python / JavaScript at a good level. I also have a little experience in C # programming and working with linux.*
+
+*I have good analytical skills. Easy to learn. I work well in a team.*
 
 ### Programming
-* Python, more than 1.5 years
-* JS , more than 0.5 years
+* Python
+* JS
+* C#
 
 ### Tools & Technologies
-* Django, Flask, starlette, fastapi
-* SQL
-* REST
-* Git
-* Linux
+• Django, Flask, starlette, fastapi
+• SqlAlchemy, asyncpg, SQL
+• REST
+• Git
+• Linux
 
 ### Other skills & Technologies
 * SOLID Design Principles / Software Design Patterns / OOP
-* MongoDB, Redis, PostgreSQL
-* Docker
-* pylint, black, poetry, pytest,asyncio, Selenium Webdriver
-* React
+• Redis, PostgreSQL
+• Docker
+• pylint, black, pytest,asyncio
+• React
 
 ### Links
 
