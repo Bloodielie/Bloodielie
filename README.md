@@ -27,12 +27,8 @@
 • pylint, black, pytest,asyncio
 • React
 
-### Links
+### Useful links
 
-<a href="https://t.me/ohmaydev">
-  <img align="left" alt="Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://vk.com/tokia_flex">
-  <img align="left" alt="Vk" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
-</a>
-<br/>
+- [Telegram](https://t.me/ohmaydev)
+- [VK](https://vk.com/tokia_flex)
+- [LinkedIn](https://www.linkedin.com/in/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BF%D0%B0%D0%BD%D0%BA%D1%80%D0%B0%D1%82%D0%BE%D0%B2-8642a419a/)
