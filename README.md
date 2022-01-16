@@ -31,4 +31,4 @@
 
 - [Telegram](https://t.me/ohmaydev)
 - [VK](https://vk.com/tokia_flex)
-- [LinkedIn](https://www.linkedin.com/in/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BF%D0%B0%D0%BD%D0%BA%D1%80%D0%B0%D1%82%D0%BE%D0%B2-8642a419a/)
+- [LinkedIn](https://www.linkedin.com/in/pankratovroman/)
