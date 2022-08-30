@@ -4,7 +4,7 @@
 
 ### Summary:
 
-*Experience in web development for about 2 years, during this time I studied Python / JavaScript at a good level. I also have a little experience in C # programming and working with linux.*
+*Experience in web development for about 3 years, during this time I studied Python / JavaScript at a good level. I also have a little experience in C # programming and working with linux.*
 
 *I have good analytical skills. Easy to learn. I work well in a team.*
 
